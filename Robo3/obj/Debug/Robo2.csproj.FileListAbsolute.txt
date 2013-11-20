@@ -1,0 +1,5 @@
+C:\Playground\Robocode\Robo2\obj\Debug\Robo2.csprojResolveAssemblyReference.cache
+C:\Playground\Robocode\Robo2\obj\Debug\Nintex.Viva_1.0.dll
+C:\Playground\Robocode\Robo2\obj\Debug\Nintex.Viva_1.0.pdb
+C:\Playground\Robocode\Nintex.Viva_1.0.dll
+C:\Playground\Robocode\Nintex.Viva_1.0.pdb

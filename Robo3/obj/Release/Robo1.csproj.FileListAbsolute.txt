@@ -1,0 +1,7 @@
+C:\Playground\Robocode\Robo1\Robo1\bin\Release\Nintex.Kancil_1.0.dll
+C:\Playground\Robocode\Robo1\Robo1\bin\Release\Nintex.Kancil_1.0.pdb
+C:\Playground\Robocode\Robo1\Robo1\bin\Release\robocode.dll
+C:\Playground\Robocode\Robo1\Robo1\bin\Release\robocode.xml
+C:\Playground\Robocode\Robo1\Robo1\obj\Release\Robo1.csprojResolveAssemblyReference.cache
+C:\Playground\Robocode\Robo1\Robo1\obj\Release\Nintex.Kancil_1.0.dll
+C:\Playground\Robocode\Robo1\Robo1\obj\Release\Nintex.Kancil_1.0.pdb
