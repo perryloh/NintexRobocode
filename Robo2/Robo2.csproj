@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Nintex</RootNamespace>
-    <AssemblyName>Nintex.Kancil_1.0</AssemblyName>
+    <AssemblyName>Nintex.Viva_1.0</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
